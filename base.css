@@ -89,10 +89,12 @@ a {
 
 .prof-pic {
 	margin-top: 20px;
-  margin-bottom: 2%;
-  border: 2px solid #aaa;
-  border-radius:  100%;
-  width: 80px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  object-fit: cover;
 }
 
 .user-name {
