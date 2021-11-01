@@ -90,8 +90,9 @@ a {
 .prof-pic {
 	margin-top: 20px;
   margin-bottom: 2%;
+  border: 2px solid #aaa;
   border-radius:  50%;
-  width: 120px;
+  width: 100px;
 }
 
 .user-name {
@@ -303,7 +304,7 @@ h2 {
 
 .links .link:hover {
   color: #fff;
-  background-color: #000;
+  background-color: #aaa;
   border: 2px solid #000;
 
 }
