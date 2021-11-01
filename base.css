@@ -353,9 +353,6 @@ h2 {
   color: transparent;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
-}
-
-.links .link:hover:before{
   content:"This Website Will Live Soon";
 }
 
