@@ -303,7 +303,6 @@ h2 {
 }
 
 .links .link:hover span {
-  display: none;
   color: #fff;
   background-color: #aaa;
   border-radius: 20px 20px 20px 20px;
