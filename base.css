@@ -349,7 +349,7 @@ h2 {
   padding: 15px 0;
 }
 
-.links .link:hover p {
+.links .link:hover{
   color: transparent;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
@@ -358,7 +358,7 @@ h2 {
 .links .link:hover:before{
   content:"This Website Will Live Soon";
 }
-.links .link2:hover p{
+.links .link2:hover{
   color: transparent;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
