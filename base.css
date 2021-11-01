@@ -196,8 +196,31 @@ ul.social-icons {
 .fa-whatsapp:hover {
     background-color: #000;
 }
+.fa-github {
+  padding:10px 14px;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition: .5s;
+  background-color: #aaa;
+}
+.fa-github:hover {
+  background-color: #000;
+}
 
-
+.fa-youtube {
+  padding:10px 14px;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition: .5s;
+  background-color: #aaa;
+}
+.fa-youtube:hover {
+  background-color: #000;
+}
 /* The only rule that matters */
 #video-background {
 /*  making the video fullscreen  */
