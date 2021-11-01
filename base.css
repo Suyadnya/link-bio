@@ -349,20 +349,32 @@ h2 {
   padding: 15px 0;
 }
 
-.links .link:hover a{
-  color: transparent;
-  background-color: rgb(97, 97, 97);
-  border-radius: 20px 20px 20px 20px;
-  content:"This Website Will Live Soon";
-}
-
-.links .link2:hover a{
-  color: transparent;
+.links .link:hover {
+  font-size: 0px;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
 }
 
-.links .link2:hover:before {
+.links .link:hover::before{
+  font-size: 16px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  content: "This Website Will Live Soon";
+
+}
+
+.links .link2:hover {
+  font-size: 0px;
+  background-color: rgb(97, 97, 97);
+  border-radius: 20px 20px 20px 20px;
+}
+
+.links .link2:hover::before {
+  font-size: 16px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
   content:"This Website Will Live Soon";
 }
 
