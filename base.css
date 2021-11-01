@@ -93,7 +93,8 @@ a {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: 40% 65%;
 }
 
 .user-name {
