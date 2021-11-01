@@ -327,6 +327,7 @@ h2 {
 }
 
 .links .link:hover {
+  display: none;
   color: #fff;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
@@ -336,6 +337,7 @@ h2 {
   content:"This page currently under reconstruction";
 }
 .links .link2:hover{
+  display:none;
   color: #fff;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
