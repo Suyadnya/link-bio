@@ -332,7 +332,7 @@ h2 {
   border-radius: 20px 20px 20px 20px;
 
 }
-.links .link:hover::after{
+.links .link:hover:before{
   content:"This page currently under reconstruction";
 }
 .links .link2:hover{
@@ -342,7 +342,7 @@ h2 {
 
 }
 
-.links .link2:hover::after {
+.links .link2:hover:before {
   content:"This page currently under reconstruction";
 }
 
