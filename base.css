@@ -326,21 +326,32 @@ h2 {
   padding: 15px 0;
 }
 
-.links .link:hover::after {
-  content:"This page currently under reconstruction";
+.links .link:hover {
   color: #fff;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
 
 }
-.links .link:hover::after {
+.links .link:hover::after{
   content:"This page currently under reconstruction";
+}
+.links .link2:hover{
   color: #fff;
   background-color: rgb(97, 97, 97);
   border-radius: 20px 20px 20px 20px;
 
 }
 
+.links .link2:hover::after {
+  content:"This page currently under reconstruction";
+}
+
+.links .link3:hover{
+  color: #fff;
+  background-color: rgb(97, 97, 97);
+  border-radius: 20px 20px 20px 20px;
+
+}
 
 
 #bottom {
