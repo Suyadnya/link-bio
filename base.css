@@ -93,8 +93,7 @@ a {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .user-name {
@@ -168,7 +167,7 @@ ul.social-icons {
     background-color: #aaa;
 }
 .fa-facebook:hover {
-    background-color: #000;
+    background-color: rgb(97, 97, 97);
 }
 .fa-linkedin {
     padding:10px 14px;
@@ -180,7 +179,7 @@ ul.social-icons {
     background-color: #aaa;
 }
 .fa-linkedin:hover {
-    background-color: #000;
+    background-color: rgb(97, 97, 97);
 }
 
 .fa-whatsapp {
@@ -193,7 +192,7 @@ ul.social-icons {
     background-color: #aaa;
 }
 .fa-whatsapp:hover {
-    background-color: #000;
+    background-color: rgb(97, 97, 97);
 }
 .fa-github {
   padding:10px 14px;
@@ -205,7 +204,7 @@ ul.social-icons {
   background-color: #aaa;
 }
 .fa-github:hover {
-  background-color: #000;
+  background-color: rgb(97, 97, 97);
 }
 
 .fa-youtube {
@@ -218,7 +217,7 @@ ul.social-icons {
   background-color: #aaa;
 }
 .fa-youtube:hover {
-  background-color: #000;
+  background-color: rgb(97, 97, 97);
 }
 /* The only rule that matters */
 #video-background {
