@@ -117,7 +117,11 @@ a {
 /* Links */
 
 @media(max-width: 600px) {
-    .link {
+  .body {
+    overflow-x:hidden;
+  }  
+
+  .link {
         padding: 5px 15px;
     }
 }
