@@ -131,9 +131,10 @@ a {
   }  
 
   .links {
+        margin-top: 50px;
         padding-left: 15px;
         padding-left: 15px;
-        width: 255px !important;
+        width: 270px !important;
 
     }
 }
