@@ -131,8 +131,9 @@ a {
   }  
 
   .links {
-        padding: 5px 15px;
-        width: 50px !important;
+        padding-left: 15px;
+        padding-left: 15px;
+        width: 150px !important;
 
     }
 }
