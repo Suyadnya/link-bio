@@ -212,18 +212,7 @@ ul.social-icons {
   background-color: rgb(97, 97, 97);
 }
 
-.fa-youtube {
-  padding:10px 14px;
-  -o-transition:.5s;
-  -ms-transition:.5s;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  transition: .5s;
-  background-color: #aaa;
-}
-.fa-youtube:hover {
-  background-color: rgb(97, 97, 97);
-}
+
 /* The only rule that matters */
 #video-background {
 /*  making the video fullscreen  */
