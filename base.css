@@ -324,10 +324,11 @@ ul.social-icons {
     transition: .5s;
     background-color: #aaa;
     border: 1px solid #aaa;
-    border-radius: 50px;
+    border-radius: 100px;
 }
 .fa-facebook:hover {
     background-color: rgb(97, 97, 97);
+    border: 0px none;
 }
 .fa-linkedin {
     padding:10px 14px;
@@ -338,10 +339,11 @@ ul.social-icons {
     transition: .5s;
     background-color: #aaa;
     border: 1px solid #aaa;
-    border-radius: 50px;
+    border-radius: 100px;
 }
 .fa-linkedin:hover {
     background-color: rgb(97, 97, 97);
+    border: 0px none;
 }
 
 .fa-whatsapp {
@@ -353,10 +355,11 @@ ul.social-icons {
     transition: .5s;
     background-color: #aaa;
     border: 1px solid #aaa;
-    border-radius: 50px;
+  border-radius: 100px;
 }
 .fa-whatsapp:hover {
     background-color: rgb(97, 97, 97);
+    border: 0px none;
 }
 .fa-github {
   padding:10px 14px;
@@ -367,10 +370,11 @@ ul.social-icons {
   transition: .5s;
   background-color: #aaa;
   border: 1px solid #aaa;
-  border-radius: 50px;	
+  border-radius: 100px;	
 }
 .fa-github:hover {
   background-color: rgb(97, 97, 97);
+  border: 0px none;
 }
 
 
