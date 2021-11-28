@@ -108,7 +108,7 @@ a {
   --line-width: 5px;
   --curtain-color: #fff;
   --outer-line-color: #aaa;
-  --middle-line-color: ##616161;
+  --middle-line-color: #616161;
   --inner-line-color: #000;
   position:fixed;
   top:0;
