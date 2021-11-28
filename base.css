@@ -26,6 +26,7 @@ body {
   line-height: 1;
 }
 ol, ul {
+  margin: auto;
   list-style: none;
 }
 blockquote, q {
@@ -148,32 +149,32 @@ footer img {
 
 
 .footer-social-icons {
-	  display:inline-block;
+    display:inline-block;
     width: 350px;
     display:block;
-    margin: 0 auto;
-		align-items: center;
+    margin: auto;
+    align-items: center;
 }
 .social-icon {
     color: #fff;
 }
-ul.social-icons {
-	  display:inline-block;
-		margin: auto;
+ul.social-icons { 
+    display:inline-block;
+    margin: auto;
     margin-top: 10%;
-		text-align:center;
+    text-align:center;
 }
 .social-icons li {
-	  display:inline-block;
+    display:inline-block;
     vertical-align: top;
     display: inline;
     height: 100px;
 }
 .social-icons a {
-	  margin: 0 auto;
+    margin: auto;
     color: #fff;
     text-decoration: none;
-		text-align:center;
+    text-align:center;
 }
 .fa-facebook {
     padding:10px 14px;
