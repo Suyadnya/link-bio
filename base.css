@@ -106,10 +106,10 @@ a {
 /* Loader Styles start here */
 .loader-wrapper {
   --line-width: 5px;
-  --curtain-color: #f1faee;
-  --outer-line-color: #a8dadc;
-  --middle-line-color: #457b9d;
-  --inner-line-color: #1d3557;
+  --curtain-color: #fff;
+  --outer-line-color: #aaa;
+  --middle-line-color: ##616161;
+  --inner-line-color: #000;
   position:fixed;
   top:0;
   left:0;
@@ -323,7 +323,6 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #aaa;
-    border: 1px solid #aaa;
     border-radius: 20px;
 }
 .fa-facebook:hover {
@@ -338,7 +337,6 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #aaa;
-    border: 1px solid #aaa;
     border-radius: 20px;
 }
 .fa-linkedin:hover {
@@ -354,7 +352,6 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #aaa;
-    border: 1px solid #aaa;
     border-radius: 20px;
 }
 .fa-whatsapp:hover {
@@ -369,12 +366,10 @@ ul.social-icons {
   -webkit-transition:.5s;
   transition: .5s;
   background-color: #aaa;
-  border: 1px solid #aaa;
   border-radius: 20px;	
 }
 .fa-github:hover {
   background-color: rgb(97, 97, 97);
-  border: none;
 }
 
 
