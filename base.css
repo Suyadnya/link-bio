@@ -299,7 +299,7 @@ ul.social-icons {
     display:inline-block;
     margin: 0 auto;
     margin-top: 10%;
-    border: 1px solid #0000ffff;
+    border: 1px solid #aaa;
     border-radius: 50px
 }
 .social-icons li {
@@ -307,7 +307,7 @@ ul.social-icons {
     vertical-align: top;
     display: inline;
     height: 100px;
-    border: 1px solid #0000ffff;
+    border: 1px solid #aaa;
     border-radius: 50px
 }
 .social-icons a {
@@ -315,7 +315,7 @@ ul.social-icons {
     color: #fff;
     text-decoration: none;
     text-align:center;
-    border: 1px solid #0000ffff;
+    border: 1px solid #aaa;
     border-radius: 50px
 	
 }
