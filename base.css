@@ -395,7 +395,10 @@ article {
   right: 0;
   bottom: 0;
   border: 5px solid #aaa;
-  margin: 5px;
+  margin: 5px;  
+  justify-items: center;
+  display: inline-grid;
+  align-items: center;
 }
 
 /* color coeds
